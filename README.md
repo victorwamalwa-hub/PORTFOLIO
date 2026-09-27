@@ -8,3 +8,4 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 
 
 ## Features
+* Header with navigation links to each section
