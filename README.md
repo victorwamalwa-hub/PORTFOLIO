@@ -18,3 +18,5 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * HTML
 * CSS
 * JavaScript
+
+## How to Run Locally
