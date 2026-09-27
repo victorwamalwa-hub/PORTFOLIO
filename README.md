@@ -17,3 +17,4 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 ## Technologies Used
 * HTML
 * CSS
+* JavaScript
