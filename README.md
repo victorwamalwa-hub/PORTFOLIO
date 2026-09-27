@@ -15,3 +15,4 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * Contact section with email and Github link
 
 ## Technologies Used
+* HTML
