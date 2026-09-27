@@ -24,3 +24,5 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * Clone the repo: 'git clone git@github.com:victorwamlwa-hub/victorwamalwa-hub-portfoiio.git'
 
 * Open the folder in VS Code
+
+* Open 'index.html' in your browser
