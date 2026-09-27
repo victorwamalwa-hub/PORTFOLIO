@@ -28,4 +28,5 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * Open 'index.html' in your browser
 
 ## What I Learned
-I learned how to store data in arrays and objects and render them onto a page using JavaScript loops.
+I learned how to store data in arrays and objects and render them onto a page using JavaScript loops. I also practiced
+using Git with small, regular coomits.
