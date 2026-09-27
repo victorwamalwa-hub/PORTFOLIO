@@ -21,6 +21,6 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 
 ## How to Run Locally
 
-Clone the repo: 'git clone git@github.com:victorwamlwa-hub/victorwamalwa-hub-portfoiio.git'
+* Clone the repo: 'git clone git@github.com:victorwamlwa-hub/victorwamalwa-hub-portfoiio.git'
 
 Open the folder in VS Code
