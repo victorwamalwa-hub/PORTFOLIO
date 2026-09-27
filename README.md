@@ -12,3 +12,4 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * About Me section with a short bio and photo
 * Skills list rendered from a JavaScript array
 * Project cards rendered from a JavaScript array of objects
+* Contact section with email and Github link
