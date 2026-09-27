@@ -26,3 +26,5 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * Open the folder in VS Code
 
 * Open 'index.html' in your browser
+
+## What I Learned
