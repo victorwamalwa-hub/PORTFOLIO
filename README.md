@@ -13,3 +13,5 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 * Skills list rendered from a JavaScript array
 * Project cards rendered from a JavaScript array of objects
 * Contact section with email and Github link
+
+## Technologies Used
