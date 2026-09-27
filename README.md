@@ -10,3 +10,4 @@ A simple single-page portfolio website built using HTML,CSS and JavaScript
 ## Features
 * Header with navigation links to each section
 * About Me section with a short bio and photo
+* Skills list rendered from a JavaScript array
